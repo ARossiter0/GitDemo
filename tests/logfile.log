@@ -1,0 +1,84 @@
+2022-07-26 16:13:23,537 : INFO : test_e2e : Getting all the card titles
+2022-07-26 16:13:23,732 : INFO : test_e2e : Entering country name 'ind'
+2022-07-26 16:13:28,993 : INFO : test_e2e : Text received from application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-26 16:14:02,191 : INFO : test_e2e : Getting all the card titles
+2022-07-26 16:14:02,362 : INFO : test_e2e : Entering country name 'ind'
+2022-07-26 16:14:07,600 : INFO : test_e2e : Text received from application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-26 16:15:25,363 : INFO : test_homepage : First name: Alex
+2022-07-26 16:15:25,943 : INFO : test_homepage : First name: Kristen
+2022-07-26 16:15:25,943 : INFO : test_homepage : First name: Kristen
+2022-07-26 16:15:30,731 : INFO : test_e2e : Getting all the card titles
+2022-07-26 16:15:30,900 : INFO : test_e2e : Entering country name 'ind'
+2022-07-26 16:15:36,148 : INFO : test_e2e : Text received from application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-26 16:23:22,997 : INFO : test_homepage : First name: Alex
+2022-07-26 16:23:23,594 : INFO : test_homepage : First name: Kristen
+2022-07-26 16:23:23,594 : INFO : test_homepage : First name: Kristen
+2022-07-26 16:23:28,583 : INFO : test_e2e : Getting all the card titles
+2022-07-26 16:23:28,764 : INFO : test_e2e : Entering country name 'ind'
+2022-07-26 16:23:34,037 : INFO : test_e2e : Text received from application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-26 16:24:01,492 : INFO : test_homepage : First name: Alex
+2022-07-26 16:24:02,075 : INFO : test_homepage : First name: Kristen
+2022-07-26 16:24:02,075 : INFO : test_homepage : First name: Kristen
+2022-07-26 16:24:07,182 : INFO : test_e2e : Getting all the card titles
+2022-07-26 16:24:07,350 : INFO : test_e2e : Entering country name 'ind'
+2022-07-26 16:24:12,629 : INFO : test_e2e : Text received from application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-27 09:35:05,770 : INFO : test_homepage : First name: Alex
+2022-07-27 09:35:06,352 : INFO : test_homepage : First name: Kristen
+2022-07-27 09:35:06,352 : INFO : test_homepage : First name: Kristen
+2022-07-27 09:35:11,292 : INFO : test_e2e : Getting all the card titles
+2022-07-27 09:35:11,467 : INFO : test_e2e : Entering country name 'ind'
+2022-07-27 09:35:16,714 : INFO : test_e2e : Text received from application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-27 09:59:57,986 : INFO : test_homepage : First name: Alex
+2022-07-27 09:59:58,570 : INFO : test_homepage : First name: Kristen
+2022-07-27 09:59:58,570 : INFO : test_homepage : First name: Kristen
+2022-07-27 10:00:05,389 : INFO : test_e2e : Getting all the card titles
+2022-07-27 10:00:05,576 : INFO : test_e2e : Entering country name 'ind'
+2022-07-27 10:00:10,831 : INFO : test_e2e : Text received from application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-27 10:00:56,546 : INFO : test_homepage : First name: Alex
+2022-07-27 10:00:57,132 : INFO : test_homepage : First name: Kristen
+2022-07-27 10:00:57,132 : INFO : test_homepage : First name: Kristen
+2022-07-27 10:01:02,034 : INFO : test_e2e : Getting all the card titles
+2022-07-27 10:01:02,212 : INFO : test_e2e : Entering country name 'ind'
+2022-07-27 10:01:07,451 : INFO : test_e2e : Text received from application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-27 10:04:37,257 : INFO : test_homepage : First name: Alex
+2022-07-27 10:04:41,673 : INFO : test_homepage : First name: Kristen
+2022-07-27 10:04:41,673 : INFO : test_homepage : First name: Kristen
+2022-07-27 10:04:55,812 : INFO : test_e2e : Getting all the card titles
+2022-07-27 10:04:57,781 : INFO : test_e2e : Entering country name 'ind'
+2022-07-27 10:05:04,873 : INFO : test_e2e : Text received from application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-27 10:05:31,148 : INFO : test_homepage : First name: Alex
+2022-07-27 10:05:31,759 : INFO : test_homepage : First name: Kristen
+2022-07-27 10:05:31,759 : INFO : test_homepage : First name: Kristen
+2022-07-27 10:05:38,895 : INFO : test_e2e : Getting all the card titles
+2022-07-27 10:05:39,074 : INFO : test_e2e : Entering country name 'ind'
+2022-07-27 10:05:44,314 : INFO : test_e2e : Text received from application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-27 10:13:22,709 : INFO : test_homepage : First name: Alex
+2022-07-27 10:13:23,311 : INFO : test_homepage : First name: Kristen
+2022-07-27 10:13:23,311 : INFO : test_homepage : First name: Kristen
+2022-07-27 10:13:28,052 : INFO : test_e2e : Getting all the card titles
+2022-07-27 10:13:28,236 : INFO : test_e2e : Entering country name 'ind'
+2022-07-27 10:13:33,534 : INFO : test_e2e : Text received from application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-27 10:14:49,084 : INFO : test_homepage : First name: Alex
+2022-07-27 10:14:53,518 : INFO : test_homepage : First name: Kristen
+2022-07-27 10:14:53,518 : INFO : test_homepage : First name: Kristen
+2022-07-27 10:15:07,895 : INFO : test_e2e : Getting all the card titles
+2022-07-27 10:15:09,845 : INFO : test_e2e : Entering country name 'ind'
+2022-07-27 10:15:16,960 : INFO : test_e2e : Text received from application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-27 10:59:02,610 : INFO : test_homepage : First name: Alex
+2022-07-27 10:59:03,174 : INFO : test_homepage : First name: Kristen
+2022-07-27 10:59:03,174 : INFO : test_homepage : First name: Kristen
+2022-07-27 11:00:27,465 : INFO : test_homepage : First name: Alex
+2022-07-27 11:00:34,016 : INFO : test_homepage : First name: Kristen
+2022-07-27 11:00:34,016 : INFO : test_homepage : First name: Kristen

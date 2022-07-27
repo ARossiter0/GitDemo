@@ -28,8 +28,7 @@ def setup(request):
 def random_new_code():
     pass
 
-def random_new_code():
-    pass
+
 
 
 def pytest_addoption(parser):
